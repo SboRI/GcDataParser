@@ -1,0 +1,89 @@
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 27 - Biotrafo M9-C12 pMis_Car - feed\pMis ctrl 1 - t4_1.qgd
+Output Date	10,07,2017
+Output Time	22:08:13
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret,Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std,Ret,Time	Calibration Curve	3rd	2nd	1st	Constant	Ref,Ion Area	Ref,Ion Height	Ref,Ion Set Ratio	Ref,Ion Ratio	Recovery	SI	Ref,Ion1 m/z	Ref,Ion1 Area	Ref,Ion1 Height	Ref,Ion1 Set Ratio	Ref,Ion1 Ratio	Ref,Ion2 m/z	Ref,Ion2 Area	Ref,Ion2 Height	Ref,Ion2 Set Ratio	Ref,Ion2 Ratio	Ref,Ion3 m/z	Ref,Ion3 Area	Ref,Ion3 Height	Ref,Ion3 Set Ratio	Ref,Ion3 Ratio	Ref,Ion4 m/z	Ref,Ion4 Area	Ref,Ion4 Height	Ref,Ion4 Set Ratio	Ref,Ion4 Ratio	Ref,Ion5 m/z	Ref,Ion5 Area	Ref,Ion5 Height	Ref,Ion5 Set Ratio	Ref,Ion5 Ratio	Ret, Index	S/N	Unit	Description	Threshold	Tailing	Ref,Ion1 S/N	Ref,Ion2 S/N	Ref,Ion3 S/N	Ref,Ion4 S/N	Ref,Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret,Time	Noise
+1	n-octane	ISTD	1	TIC	3,339	3,295	3,400	1,330	7804536	5861488	100,00000	Auto	4	3,370	Default	0	0	0	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		507,42	mg/L		0,00000	0,847						n-octane	7804536	5861488	3,339	11551,560	
+2	undecanal	Target	1	TIC	6,785	6,720	6,805	2,590	38084	14682	0,62982	Auto	13	6,825	Linear	0	0	0,774785	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0,52	mg/L		0,00000	0,635						n-octane	7804536	5861488	3,339	28136,800	
+3	1-undecanol	Target	1	TIC	7,188	7,155	7,245	3,490	547910	156771	7,27090	Auto	27	7,185	Linear	0	0	0,965548	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		11,21	mg/L		0,00000	1,350						n-octane	7804536	5861488	3,339	13980,083	
+4	dodecanal	Target	1	TIC	7,349	7,330	7,385	1,170	50126	42965	0,82501	Auto	37	7,385	Linear	0	0	0,778496	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2,57	mg/L		0,00000	1,364						n-octane	7804536	5861488	3,339	16741,692	
+6	dodecanoic acid	Target	1	TIC	8,234	8,065	8,655	5,120	175243074	34218295	3816,13750	Auto	51	8,185	Linear	0	0	0,588396	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1260,27	mg/L		0,00000	0,636						n-octane	7804536	5861488	3,339	27151,546
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 27 - Biotrafo M9-C12 pMis_Car - feed\pMis ctrl feed 1 - t4_2.qgd
+Output Date	10,07,2017
+Output Time	22:25:59
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret,Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std,Ret,Time	Calibration Curve	3rd	2nd	1st	Constant	Ref,Ion Area	Ref,Ion Height	Ref,Ion Set Ratio	Ref,Ion Ratio	Recovery	SI	Ref,Ion1 m/z	Ref,Ion1 Area	Ref,Ion1 Height	Ref,Ion1 Set Ratio	Ref,Ion1 Ratio	Ref,Ion2 m/z	Ref,Ion2 Area	Ref,Ion2 Height	Ref,Ion2 Set Ratio	Ref,Ion2 Ratio	Ref,Ion3 m/z	Ref,Ion3 Area	Ref,Ion3 Height	Ref,Ion3 Set Ratio	Ref,Ion3 Ratio	Ref,Ion4 m/z	Ref,Ion4 Area	Ref,Ion4 Height	Ref,Ion4 Set Ratio	Ref,Ion4 Ratio	Ref,Ion5 m/z	Ref,Ion5 Area	Ref,Ion5 Height	Ref,Ion5 Set Ratio	Ref,Ion5 Ratio	Ret, Index	S/N	Unit	Description	Threshold	Tailing	Ref,Ion1 S/N	Ref,Ion2 S/N	Ref,Ion3 S/N	Ref,Ion4 S/N	Ref,Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret,Time	Noise
+1	n-octane	ISTD	1	TIC	3,339	3,295	3,395	1,370	7931081	5790365	100,00000	Auto	4	3,370	Default	0	0	0	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		997,99	mg/L		0,00000	0,837						n-octane	7931081	5790365	3,339	5802,000	
+2	undecanal	Target	1	TIC	6,787	6,745	6,805	1,660	32216	19435	0,52427	Auto	15	6,825	Linear	0	0	0,774785	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0,90	mg/L		0,00000	0,701						n-octane	7931081	5790365	3,339	21684,257	
+3	1-undecanol	Target	1	TIC	7,110	7,095	7,215	3,670	423722	115352	5,53318	Auto	26	7,185	Linear	0	0	0,965548	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		7,13	mg/L		0,00000	4,000						n-octane	7931081	5790365	3,339	16170,000	
+4	dodecanal	Target	1	TIC	7,350	7,310	7,370	1,200	44819	37390	0,72589	Auto	35	7,385	Linear	0	0	0,778496	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2,44	mg/L		0,00000	0,989						n-octane	7931081	5790365	3,339	15318,800	
+5	asdasd	Target	1	TIC	7,685	7,675	7,755	2,120	32104	15161	0,36468	Auto	43	7,725	Linear	0	0	1,10998	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0,00	mg/L		0,00000	4,000						n-octane	7931081	5790365	3,339	4771578,575
+6	dodecanoic acid	Target	1	TIC	8,220	8,065	8,650	4,780	147791678	30918019	3166,99833	Auto	52	8,185	Linear	0	0	0,588396	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1299,71	mg/L		0,00000	0,629						n-octane	7931081	5790365	3,339	23788,429	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 27 - Biotrafo M9-C12 pMis_Car - feed\pMis Car 1 - t4.qgd
+Output Date	10,07,2017
+Output Time	22:43:37
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret,Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std,Ret,Time	Calibration Curve	3rd	2nd	1st	Constant	Ref,Ion Area	Ref,Ion Height	Ref,Ion Set Ratio	Ref,Ion Ratio	Recovery	SI	Ref,Ion1 m/z	Ref,Ion1 Area	Ref,Ion1 Height	Ref,Ion1 Set Ratio	Ref,Ion1 Ratio	Ref,Ion2 m/z	Ref,Ion2 Area	Ref,Ion2 Height	Ref,Ion2 Set Ratio	Ref,Ion2 Ratio	Ref,Ion3 m/z	Ref,Ion3 Area	Ref,Ion3 Height	Ref,Ion3 Set Ratio	Ref,Ion3 Ratio	Ref,Ion4 m/z	Ref,Ion4 Area	Ref,Ion4 Height	Ref,Ion4 Set Ratio	Ref,Ion4 Ratio	Ref,Ion5 m/z	Ref,Ion5 Area	Ref,Ion5 Height	Ref,Ion5 Set Ratio	Ref,Ion5 Ratio	Ret, Index	S/N	Unit	Description	Threshold	Tailing	Ref,Ion1 S/N	Ref,Ion2 S/N	Ref,Ion3 S/N	Ref,Ion4 S/N	Ref,Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret,Time	Noise
+1	n-octane	ISTD	1	TIC	3,339	3,290	3,415	1,380	8064063	5829928	100,00000	Auto	5	3,370	Default	0	0	0	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		881,17	mg/L		0,00000	0,830						n-octane	8064063	5829928	3,339	6616,118	
+2	undecanal	Target	1	TIC	6,784	6,750	6,810	1,480	39312	26582	0,62920	Auto	15	6,825	Linear	0	0	0,774785	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2,05	mg/L		0,00000	0,865						n-octane	8064063	5829928	3,339	12956,000	
+3	1-undecanol	Target	1	TIC	7,142	7,105	7,175	1,730	77277	44744	0,99248	Auto	25	7,185	Linear	0	0	0,965548	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0,00	mg/L		0,00000	0,870						n-octane	8064063	5829928	3,339	11787452,294	
+4	dodecanal	Target	1	TIC	7,350	7,320	7,395	1,070	8123452	7607082	129,39883	Auto	33	7,385	Linear	0	0	0,778496	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		486,07	mg/L		0,00000	1,000						n-octane	8064063	5829928	3,339	15650,250	
+5	1-dodecanol	Target	1	TIC	7,699	7,650	7,850	1,550	69016312	44616671	771,05353	Auto	39	7,725	Linear	0	0	1,10998	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2,75	mg/L		0,00000	0,849						n-octane	8064063	5829928	3,339	16222993,394	
+6	dodecanoic acid	Target	1	TIC	8,229	8,065	8,655	5,110	168787220	33033485	3557,26229	Auto	42	8,185	Linear	0	0	0,588396	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10,76	mg/L		0,00000	0,673						n-octane	8064063	5829928	3,339	3070850,746	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 27 - Biotrafo M9-C12 pMis_Car - feed\pMis Car 2 - t4.qgd
+Output Date	10,07,2017
+Output Time	23:01:24
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret,Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std,Ret,Time	Calibration Curve	3rd	2nd	1st	Constant	Ref,Ion Area	Ref,Ion Height	Ref,Ion Set Ratio	Ref,Ion Ratio	Recovery	SI	Ref,Ion1 m/z	Ref,Ion1 Area	Ref,Ion1 Height	Ref,Ion1 Set Ratio	Ref,Ion1 Ratio	Ref,Ion2 m/z	Ref,Ion2 Area	Ref,Ion2 Height	Ref,Ion2 Set Ratio	Ref,Ion2 Ratio	Ref,Ion3 m/z	Ref,Ion3 Area	Ref,Ion3 Height	Ref,Ion3 Set Ratio	Ref,Ion3 Ratio	Ref,Ion4 m/z	Ref,Ion4 Area	Ref,Ion4 Height	Ref,Ion4 Set Ratio	Ref,Ion4 Ratio	Ref,Ion5 m/z	Ref,Ion5 Area	Ref,Ion5 Height	Ref,Ion5 Set Ratio	Ref,Ion5 Ratio	Ret, Index	S/N	Unit	Description	Threshold	Tailing	Ref,Ion1 S/N	Ref,Ion2 S/N	Ref,Ion3 S/N	Ref,Ion4 S/N	Ref,Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret,Time	Noise
+1	n-octane	ISTD	1	TIC	3,338	3,290	3,455	1,390	7423781	5349629	100,00000	Auto	5	3,370	Default	0	0	0	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		478,06	mg/L		0,00000	0,824						n-octane	7423781	5349629	3,338	11190,240	
+2	undecanal	Target	1	TIC	6,895	6,865	6,915	1,780	138704	78032	2,41147	Auto	13	6,825	Linear	0	0	0,774785	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2,91	mg/L		0,00000	0,872						n-octane	7423781	5349629	3,338	26840,000	
+3	1-undecanol	Target	1	TIC	7,186	7,165	7,245	3,220	1098971	341529	15,33159	Auto	27	7,185	Linear	0	0	0,965548	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0,03	mg/L		0,00000	1,920						n-octane	7423781	5349629	3,338	11572151,299	
+4	dodecanal	Target	1	TIC	7,350	7,320	7,405	1,050	8445723	8032800	146,13536	Auto	38	7,385	Linear	0	0	0,778496	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		265,94	mg/L		0,00000	1,002						n-octane	7423781	5349629	3,338	30205,333	
+5	1-dodecanol	Target	1	TIC	7,699	7,650	7,850	1,620	67631883	41807299	820,75402	Auto	44	7,725	Linear	0	0	1,10998	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2,55	mg/L		0,00000	0,852						n-octane	7423781	5349629	3,338	16420379,354	
+6	dodecanoic acid	Target	1	TIC	8,235	8,065	8,660	5,240	176253587	33652935	4034,99548	Auto	48	8,185	Linear	0	0	0,588396	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12,49	mg/L		0,00000	0,648						n-octane	7423781	5349629	3,338	2695457,708	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 27 - Biotrafo M9-C12 pMis_Car - feed\pMis Car feed 1 - t4.qgd
+Output Date	10,07,2017
+Output Time	23:19:01
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret,Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std,Ret,Time	Calibration Curve	3rd	2nd	1st	Constant	Ref,Ion Area	Ref,Ion Height	Ref,Ion Set Ratio	Ref,Ion Ratio	Recovery	SI	Ref,Ion1 m/z	Ref,Ion1 Area	Ref,Ion1 Height	Ref,Ion1 Set Ratio	Ref,Ion1 Ratio	Ref,Ion2 m/z	Ref,Ion2 Area	Ref,Ion2 Height	Ref,Ion2 Set Ratio	Ref,Ion2 Ratio	Ref,Ion3 m/z	Ref,Ion3 Area	Ref,Ion3 Height	Ref,Ion3 Set Ratio	Ref,Ion3 Ratio	Ref,Ion4 m/z	Ref,Ion4 Area	Ref,Ion4 Height	Ref,Ion4 Set Ratio	Ref,Ion4 Ratio	Ref,Ion5 m/z	Ref,Ion5 Area	Ref,Ion5 Height	Ref,Ion5 Set Ratio	Ref,Ion5 Ratio	Ret, Index	S/N	Unit	Description	Threshold	Tailing	Ref,Ion1 S/N	Ref,Ion2 S/N	Ref,Ion3 S/N	Ref,Ion4 S/N	Ref,Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret,Time	Noise
+1	n-octane	ISTD	1	TIC	3,338	3,295	3,400	1,370	7919104	5769008	100,00000	Auto	6	3,370	Default	0	0	0	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		442,93	mg/L		0,00000	0,834						n-octane	7919104	5769008	3,338	13024,778	
+2	undecanal	Target	1	TIC	6,890	6,875	6,915	2,020	115876	57226	1,88858	Auto	13	6,825	Linear	0	0	0,774785	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2,08	mg/L		0,00000	1,333						n-octane	7919104	5769008	3,338	27494,640	
+3	1-undecanol	Target	1	TIC	7,186	7,160	7,240	3,220	966369	300270	12,63843	Auto	28	7,185	Linear	0	0	0,965548	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0,01	mg/L		0,00000	1,519						n-octane	7919104	5769008	3,338	22710773,030	
+4	dodecanal	Target	1	TIC	7,350	7,320	7,405	1,050	8102703	7705652	131,43091	Auto	38	7,385	Linear	0	0	0,778496	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		466,87	mg/L		0,00000	1,006						n-octane	7919104	5769008	3,338	16504,923	
+5	1-dodecanol	Target	1	TIC	7,699	7,650	7,920	1,640	71058448	43422054	808,40011	Auto	43	7,725	Linear	0	0	1,10998	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		7,78	mg/L		0,00000	0,860						n-octane	7919104	5769008	3,338	5580872,468	
+6	dodecanoic acid	Target	1	TIC	8,245	8,060	8,655	5,660	203115749	35874726	4359,10964	Auto	48	8,185	Linear	0	0	0,588396	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		9,87	mg/L		0,00000	0,626						n-octane	7919104	5769008	3,338	3633012,872	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 27 - Biotrafo M9-C12 pMis_Car - feed\pMis Car feed 2 - t4.qgd
+Output Date	10,07,2017
+Output Time	23:36:39
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret,Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std,Ret,Time	Calibration Curve	3rd	2nd	1st	Constant	Ref,Ion Area	Ref,Ion Height	Ref,Ion Set Ratio	Ref,Ion Ratio	Recovery	SI	Ref,Ion1 m/z	Ref,Ion1 Area	Ref,Ion1 Height	Ref,Ion1 Set Ratio	Ref,Ion1 Ratio	Ref,Ion2 m/z	Ref,Ion2 Area	Ref,Ion2 Height	Ref,Ion2 Set Ratio	Ref,Ion2 Ratio	Ref,Ion3 m/z	Ref,Ion3 Area	Ref,Ion3 Height	Ref,Ion3 Set Ratio	Ref,Ion3 Ratio	Ref,Ion4 m/z	Ref,Ion4 Area	Ref,Ion4 Height	Ref,Ion4 Set Ratio	Ref,Ion4 Ratio	Ref,Ion5 m/z	Ref,Ion5 Area	Ref,Ion5 Height	Ref,Ion5 Set Ratio	Ref,Ion5 Ratio	Ret, Index	S/N	Unit	Description	Threshold	Tailing	Ref,Ion1 S/N	Ref,Ion2 S/N	Ref,Ion3 S/N	Ref,Ion4 S/N	Ref,Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret,Time	Noise
+1	n-octane	ISTD	1	TIC	3,338	3,295	3,395	1,390	7947871	5701915	100,00000	Auto	5	3,370	Default	0	0	0	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		719,65	mg/L		0,00000	0,826						n-octane	7947871	5701915	3,338	7923,125	
+2	undecanal	Target	1	TIC	6,890	6,805	6,910	3,220	139698	43387	2,26860	Auto	13	6,825	Linear	0	0	0,774785	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1,60	mg/L		0,00000	0,618						n-octane	7947871	5701915	3,338	27078,091	
+3	1-undecanol	Target	1	TIC	7,176	7,155	7,240	3,830	1101993	287787	14,35999	Auto	27	7,185	Linear	0	0	0,965548	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0,02	mg/L		0,00000	2,040						n-octane	7947871	5701915	3,338	12789087,596	
+4	dodecanal	Target	1	TIC	7,350	7,320	7,400	1,060	9877431	9306998	159,63820	Auto	38	7,385	Linear	0	0	0,778496	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		484,63	mg/L		0,00000	0,983						n-octane	7947871	5701915	3,338	19204,294	
+5	1-dodecanol	Target	1	TIC	7,699	7,650	7,930	1,680	74753842	44572113	847,36281	Auto	43	7,725	Linear	0	0	1,10998	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2,72	mg/L		0,00000	0,849						n-octane	7947871	5701915	3,338	16393255,322	
+6	dodecanoic acid	Target	1	TIC	8,251	8,065	8,655	5,870	219574559	37393463	4695,27950	Auto	47	8,185	Linear	0	0	0,588396	0	0	0	0	0,00	0,00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		11,03	mg/L		0,00000	0,611						n-octane	7947871	5701915	3,338	3389397,145	
+
