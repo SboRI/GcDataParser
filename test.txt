@@ -1,0 +1,180 @@
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 29 - Biotrafo MG00-02 M9-C18 aDox-pMis_Car\00 pET ctrl - t8.qgd
+Output Date	21.08.2017
+Output Time	12:38:34
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold	Tailing	Ref.Ion1 S/N	Ref.Ion2 S/N	Ref.Ion3 S/N	Ref.Ion4 S/N	Ref.Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret.Time	Noise
+1	n-octane	ISTD	1	TIC	3.297	3.245	3.390	1.420	6960719	4904966	100.00000	Auto	5	3.295	Default	0	0	0	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		543.19	mg/L		0.00000	0.822						n-octane	6960719	4904966	3.297	9030.000	
+2	put. 8-heptadecenal	Target	1	TIC	9.365	9.295	9.390	3.160	16418	5201	7.94148	Auto	14	9.400	Linear	0	0	0.0297006	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.02	mg/L		0.00000	0.679						n-octane	6960719	4904966	3.297	284249.400	
+3	put. 8-heptadecen1-ol	Target	1	TIC	9.765	9.740	9.800	1.460	292474	200019	560.85088	Auto	26	9.770	Linear	0	0	0.00749179	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12.47	mg/L		0.00000	1.478						n-octane	6960719	4904966	3.297	16043.800	
+4	9-octadecenal	Target	1	TIC	10.035	10.025	10.080	2.490	211193	84853	4.22006	Auto	36	10.030	Linear	0	0	0.718964	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.35	mg/L		0.00000	2.750						n-octane	6960719	4904966	3.297	240899.105	
+5	9-octadecen-1-ol	Target	1	TIC	10.408	10.385	10.435	1.160	75979	65708	5.91604	Auto	45	10.300	Linear	0	0	0.184505	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3.30	mg/L		0.00000	1.161						n-octane	6960719	4904966	3.297	19931.421	
+6	oleic acid	Target	1	TIC	10.574	10.510	11.005	2.350	39942837	16978188	894.94727	Auto	51	10.540	Linear	0	0	0.641191	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1081.77	mg/L		0.00000	1.252						n-octane	6960719	4904966	3.297	15694.889	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 29 - Biotrafo MG00-02 M9-C18 aDox-pMis_Car\00 pMis ctrl - t8.qgd
+Output Date	21.08.2017
+Output Time	12:38:34
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold	Tailing	Ref.Ion1 S/N	Ref.Ion2 S/N	Ref.Ion3 S/N	Ref.Ion4 S/N	Ref.Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret.Time	Noise
+1	n-octane	ISTD	1	TIC	3.297	3.230	3.360	1.410	6888633	4901075	100.00000	Auto	5	3.295	Default	0	0	0	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		664.82	mg/L		0.00000	0.817						n-octane	6888633	4901075	3.297	7372.000	
+2	put. 8-heptadecenal	Target	1	TIC	9.364	9.295	9.380	1.950	17669	9052	8.63603	Auto	13	9.400	Linear	0	0	0.0297006	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.04	mg/L		0.00000	0.804						n-octane	6888633	4901075	3.297	215597.501	
+3	put. 8-heptadecen1-ol	Target	1	TIC	9.766	9.750	9.785	1.240	23044	18590	44.65181	Auto	26	9.770	Linear	0	0	0.00749179	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2.50	mg/L		0.00000	1.070						n-octane	6888633	4901075	3.297	7435.560	
+4	9-octadecenal	Target	1	TIC	10.090	10.075	10.135	2.710	92096	33953	1.85952	Auto	37	10.030	Linear	0	0	0.718964	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.30	mg/L		0.00000	2.000						n-octane	6888633	4901075	3.297	114468.500	
+5	9-octadecen-1-ol	Target	1	TIC	10.290	10.260	10.310	2.680	18945	7079	1.49057	Auto	46	10.300	Linear	0	0	0.184505	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.89	mg/L		0.00000	0.833						n-octane	6888633	4901075	3.297	7987.200	
+6	oleic acid	Target	1	TIC	10.558	10.510	11.005	1.950	13289281	6827162	300.87152	Auto	56	10.540	Linear	0	0	0.641191	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		600.64	mg/L		0.00000	1.815						n-octane	6888633	4901075	3.297	11366.500	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 29 - Biotrafo MG00-02 M9-C18 aDox-pMis_Car\00 pET aDox 1 - t8.qgd
+Output Date	21.08.2017
+Output Time	12:38:34
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold	Tailing	Ref.Ion1 S/N	Ref.Ion2 S/N	Ref.Ion3 S/N	Ref.Ion4 S/N	Ref.Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret.Time	Noise
+1	n-octane	ISTD	1	TIC	3.298	3.255	3.360	1.430	7196848	5032861	100.00000	Auto	4	3.295	Default	0	0	0	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		542.89	mg/L		0.00000	0.821						n-octane	7196848	5032861	3.298	9270.556	
+2	put. 8-heptadecenal	Target	1	TIC	9.365	9.345	9.380	1.490	11254	7550	5.26502	Auto	13	9.400	Linear	0	0	0.0297006	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.03	mg/L		0.00000	0.875						n-octane	7196848	5032861	3.298	249651.001	
+3	put. 8-heptadecen1-ol	Target	1	TIC	9.765	9.740	9.800	1.550	184624	119410	342.42074	Auto	26	9.770	Linear	0	0	0.00749179	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13.14	mg/L		0.00000	1.439						n-octane	7196848	5032861	3.298	9086.462	
+4	9-octadecenal	Target	1	TIC	9.928	9.915	10.125	3.340	2279350	682844	44.05158	Auto	36	10.030	Linear	0	0	0.718964	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2.81	mg/L		0.00000	6.754						n-octane	7196848	5032861	3.298	242779.700	
+5	9-octadecen-1-ol	Target	1	TIC	10.408	10.385	10.430	1.100	63292	57768	4.76648	Auto	45	10.300	Linear	0	0	0.184505	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2.69	mg/L		0.00000	1.018						n-octane	7196848	5032861	3.298	21504.644	
+6	oleic acid	Target	1	TIC	10.573	10.430	11.010	2.210	37027077	16733652	802.39782	Auto	48	10.540	Linear	0	0	0.641191	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		382.36	mg/L		0.00000	1.248						n-octane	7196848	5032861	3.298	43764.426	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 29 - Biotrafo MG00-02 M9-C18 aDox-pMis_Car\00 pET aDox 2 - t8.qgd
+Output Date	21.08.2017
+Output Time	12:38:36
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold	Tailing	Ref.Ion1 S/N	Ref.Ion2 S/N	Ref.Ion3 S/N	Ref.Ion4 S/N	Ref.Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret.Time	Noise
+1	n-octane	ISTD	1	TIC	3.298	3.245	3.395	1.400	7182978	5132610	100.00000	Auto	7	3.295	Default	0	0	0	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		522.31	mg/L		0.00000	0.818						n-octane	7182978	5132610	3.298	9826.688	
+2	put. 8-heptadecenal	Target	1	TIC	9.360	9.300	9.395	3.280	50399	15357	23.62397	Auto	14	9.400	Linear	0	0	0.0297006	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.04	mg/L		0.00000	0.792						n-octane	7182978	5132610	3.298	430997.545	
+3	put. 8-heptadecen1-ol	Target	1	TIC	9.765	9.660	9.815	1.600	313550	195557	582.66175	Auto	26	9.770	Linear	0	0	0.00749179	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		18.98	mg/L		0.00000	1.871						n-octane	7182978	5132610	3.298	10305.200	
+4	9-octadecenal	Target	1	TIC	9.925	9.915	10.090	3.200	2299947	718467	44.53547	Auto	35	10.030	Linear	0	0	0.718964	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4.01	mg/L		0.00000	8.970						n-octane	7182978	5132610	3.298	179097.500	
+5	9-octadecen-1-ol	Target	1	TIC	10.408	10.380	10.425	1.080	87734	81598	6.61996	Auto	45	10.300	Linear	0	0	0.184505	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4.55	mg/L		0.00000	0.829						n-octane	7182978	5132610	3.298	17915.385	
+6	oleic acid	Target	1	TIC	10.578	10.520	10.925	2.370	46048531	19407033	999.82475	Auto	50	10.540	Linear	0	0	0.641191	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		387.76	mg/L		0.00000	1.131						n-octane	7182978	5132610	3.298	50049.130	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 29 - Biotrafo MG00-02 M9-C18 aDox-pMis_Car\00 pMis Car 1 - t8.qgd
+Output Date	21.08.2017
+Output Time	12:38:36
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold	Tailing	Ref.Ion1 S/N	Ref.Ion2 S/N	Ref.Ion3 S/N	Ref.Ion4 S/N	Ref.Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret.Time	Noise
+1	n-octane	ISTD	1	TIC	3.298	3.255	3.405	1.440	7161553	4964321	100.00000	Auto	5	3.295	Default	0	0	0	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		128.39	mg/L		0.00000	0.810						n-octane	7161553	4964321	3.298	38664.810	
+2	put. 8-heptadecenal	Target	1	TIC	9.460	9.375	9.515	3.000	347459	115936	163.35475	Auto	14	9.400	Linear	0	0	0.0297006	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.44	mg/L		0.00000	0.830						n-octane	7161553	4964321	3.298	263542.334	
+3	put. 8-heptadecen1-ol	Target	1	TIC	9.780	9.680	9.800	5.260	56933	10833	106.11361	Auto	24	9.770	Linear	0	0	0.00749179	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.19	mg/L		0.00000	0.596						n-octane	7161553	4964321	3.298	56246.500	
+4	9-octadecenal	Target	1	TIC	10.025	10.010	10.050	1.740	170008	97723	3.30183	Auto	35	10.030	Linear	0	0	0.718964	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.72	mg/L		0.00000	1.333						n-octane	7161553	4964321	3.298	136378.500	
+5	9-octadecen-1-ol	Target	1	TIC	10.270	10.245	10.330	1.520	316903	208150	23.98341	Auto	48	10.300	Linear	0	0	0.184505	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6.23	mg/L		0.00000	1.540						n-octane	7161553	4964321	3.298	33409.182	
+6	oleic acid	Target	1	TIC	10.561	10.515	11.000	1.900	19785802	10412053	430.88273	Auto	55	10.540	Linear	0	0	0.641191	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		465.01	mg/L		0.00000	1.579						n-octane	7161553	4964321	3.298	22390.871	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 29 - Biotrafo MG00-02 M9-C18 aDox-pMis_Car\00 pMis Car 2 - t8.qgd
+Output Date	21.08.2017
+Output Time	12:38:36
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold	Tailing	Ref.Ion1 S/N	Ref.Ion2 S/N	Ref.Ion3 S/N	Ref.Ion4 S/N	Ref.Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret.Time	Noise
+1	n-octane	ISTD	1	TIC	3.298	3.255	3.400	1.430	7026506	4909664	100.00000	Auto	6	3.295	Default	0	0	0	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		110.64	mg/L		0.00000	0.820						n-octane	7026506	4909664	3.298	44374.200	
+2	put. 8-heptadecenal	Target	1	TIC	9.458	9.380	9.520	2.230	400024	179762	191.68232	Auto	16	9.400	Linear	0	0	0.0297006	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.27	mg/L		0.00000	0.860						n-octane	7026506	4909664	3.298	672580.000	
+3	put. 8-heptadecen1-ol	Target	1	TIC	9.774	9.750	9.790	1.470	11781	8020	22.37984	Auto	26	9.770	Linear	0	0	0.00749179	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.03	mg/L		0.00000	0.774						n-octane	7026506	4909664	3.298	267335.467	
+4	9-octadecenal	Target	1	TIC	10.025	10.010	10.125	2.820	350490	124310	6.93792	Auto	35	10.030	Linear	0	0	0.718964	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.88	mg/L		0.00000	3.920						n-octane	7026506	4909664	3.298	141791.750	
+5	9-octadecen-1-ol	Target	1	TIC	10.269	10.245	10.335	1.530	588385	384075	45.38516	Auto	44	10.300	Linear	0	0	0.184505	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		28.06	mg/L		0.00000	1.664						n-octane	7026506	4909664	3.298	13689.688	
+6	oleic acid	Target	1	TIC	10.558	10.520	10.995	1.880	15117278	8039171	335.54195	Auto	51	10.540	Linear	0	0	0.641191	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		363.71	mg/L		0.00000	1.718						n-octane	7026506	4909664	3.298	22103.222	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 29 - Biotrafo MG00-02 M9-C18 aDox-pMis_Car\02 pET ctrl - t8.qgd
+Output Date	21.08.2017
+Output Time	12:38:37
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold	Tailing	Ref.Ion1 S/N	Ref.Ion2 S/N	Ref.Ion3 S/N	Ref.Ion4 S/N	Ref.Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret.Time	Noise
+1	n-octane	ISTD	1	TIC	3.298	3.240	3.360	1.400	6736790	4797883	100.00000	Auto	5	3.295	Default	0	0	0	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		858.08	mg/L		0.00000	0.805						n-octane	6736790	4797883	3.299	5591.429	
+2	put. 8-heptadecenal	Target	1	TIC	9.440	9.410	9.455	1.770	117206	66071	58.57769	Auto	15	9.400	Linear	0	0	0.0297006	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.32	mg/L		0.00000	0.738						n-octane	6736790	4797883	3.299	204507.502	
+3	put. 8-heptadecen1-ol	Target	1	TIC	9.768	9.740	9.815	1.540	970858	631616	1923.60964	Auto	25	9.770	Linear	0	0	0.00749179	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		40.63	mg/L		0.00000	1.752						n-octane	6736790	4797883	3.299	15544.231	
+4	9-octadecenal	Target	1	TIC	10.040	10.025	10.085	2.740	296629	108431	6.12426	Auto	36	10.030	Linear	0	0	0.718964	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.54	mg/L		0.00000	2.000						n-octane	6736790	4797883	3.299	201763.579	
+5	9-octadecen-1-ol	Target	1	TIC	10.350	10.335	10.385	1.660	7284	4392	0.58601	Auto	46	10.300	Linear	0	0	0.184505	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.30	mg/L		0.00000	1.619						n-octane	6736790	4797883	3.299	14472.357	
+6	oleic acid	Target	1	TIC	10.505	10.435	10.515	3.090	561278	181758	12.99384	Auto	52	10.540	Linear	0	0	0.641191	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3.79	mg/L		0.00000	0.571						n-octane	6736790	4797883	3.299	48017.091	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 29 - Biotrafo MG00-02 M9-C18 aDox-pMis_Car\02 pMis ctrl - t8.qgd
+Output Date	21.08.2017
+Output Time	12:38:38
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold	Tailing	Ref.Ion1 S/N	Ref.Ion2 S/N	Ref.Ion3 S/N	Ref.Ion4 S/N	Ref.Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret.Time	Noise
+1	n-octane	ISTD	1	TIC	3.300	3.255	3.355	1.410	7455293	5285648	100.00000	Auto	7	3.295	Default	0	0	0	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		616.48	mg/L		0.00000	0.807						n-octane	7455293	5285648	3.300	8573.875	
+2	put. 8-heptadecenal	Target	1	TIC	9.364	9.295	9.380	1.750	12603	7203	5.69173	Auto	14	9.400	Linear	0	0	0.0297006	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.05	mg/L		0.00000	0.800						n-octane	7455293	5285648	3.300	132122.144	
+3	put. 8-heptadecen1-ol	Target	1	TIC	9.765	9.715	9.800	1.510	296671	196094	531.15909	Auto	25	9.770	Linear	0	0	0.00749179	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		16.19	mg/L		0.00000	1.452						n-octane	7455293	5285648	3.300	12115.000	
+4	9-octadecenal	Target	1	TIC	10.050	10.045	10.080	1.040	40188	38799	0.74976	Auto	36	10.030	Linear	0	0	0.718964	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.25	mg/L		0.00000	3.390						n-octane	7455293	5285648	3.300	155799.250	
+5	9-octadecen-1-ol	Target	1	TIC	10.365	10.330	10.385	2.830	16187	5718	1.17677	Auto	46	10.300	Linear	0	0	0.184505	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.64	mg/L		0.00000	0.638						n-octane	7455293	5285648	3.300	8869.500	
+6	oleic acid	Target	1	TIC	10.500	10.430	10.510	2.380	553364	232570	11.57601	Auto	53	10.540	Linear	0	0	0.641191	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		11.72	mg/L		0.00000	0.567						n-octane	7455293	5285648	3.300	19837.750	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 29 - Biotrafo MG00-02 M9-C18 aDox-pMis_Car\02 pET aDox 1 - t8.qgd
+Output Date	21.08.2017
+Output Time	12:38:38
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold	Tailing	Ref.Ion1 S/N	Ref.Ion2 S/N	Ref.Ion3 S/N	Ref.Ion4 S/N	Ref.Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret.Time	Noise
+1	n-octane	ISTD	1	TIC	3.297	3.255	3.375	1.420	6836351	4807815	100.00000	Auto	6	3.295	Default	0	0	0	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		511.47	mg/L		0.00000	0.824						n-octane	6836351	4807815	3.297	9400.000	
+2	put. 8-heptadecenal	Target	1	TIC	9.365	9.310	9.375	2.370	48001	20231	23.64076	Auto	15	9.400	Linear	0	0	0.0297006	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.14	mg/L		0.00000	0.591						n-octane	6836351	4807815	3.297	141258.001	
+3	put. 8-heptadecen1-ol	Target	1	TIC	9.768	9.690	9.820	1.670	1317769	791350	2572.93714	Auto	26	9.770	Linear	0	0	0.00749179	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		55.58	mg/L		0.00000	1.796						n-octane	6836351	4807815	3.297	14238.286	
+4	9-octadecenal	Target	1	TIC	10.089	10.080	10.145	2.920	163223	55901	3.32085	Auto	36	10.030	Linear	0	0	0.718964	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.20	mg/L		0.00000	3.824						n-octane	6836351	4807815	3.297	276958.200	
+5	9-octadecen-1-ol	Target	1	TIC	10.408	10.385	10.430	1.060	232490	220219	18.43197	Auto	44	10.300	Linear	0	0	0.184505	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6.10	mg/L		0.00000	0.975						n-octane	6836351	4807815	3.297	36119.763	
+6	oleic acid	Target	1	TIC	10.602	10.430	11.020	3.340	94322752	28281823	2151.81411	Auto	47	10.540	Linear	0	0	0.641191	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		470.79	mg/L		0.00000	0.929						n-octane	6836351	4807815	3.297	60072.667	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 29 - Biotrafo MG00-02 M9-C18 aDox-pMis_Car\02 pET aDox 2 - t8.qgd
+Output Date	21.08.2017
+Output Time	12:38:39
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold	Tailing	Ref.Ion1 S/N	Ref.Ion2 S/N	Ref.Ion3 S/N	Ref.Ion4 S/N	Ref.Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret.Time	Noise
+1	n-octane	ISTD	1	TIC	3.298	3.250	3.355	1.420	7084771	4987749	100.00000	Auto	6	3.295	Default	0	0	0	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		568.94	mg/L		0.00000	0.818						n-octane	7084771	4987749	3.298	8766.667	
+2	put. 8-heptadecenal	Target	1	TIC	9.360	9.340	9.385	1.550	28082	18133	13.34559	Auto	14	9.400	Linear	0	0	0.0297006	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.15	mg/L		0.00000	1.125						n-octane	7084771	4987749	3.298	122322.000	
+3	put. 8-heptadecen1-ol	Target	1	TIC	9.768	9.740	9.815	1.590	932908	587306	1757.62913	Auto	25	9.770	Linear	0	0	0.00749179	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		31.66	mg/L		0.00000	1.744						n-octane	7084771	4987749	3.298	18550.000	
+4	9-octadecenal	Target	1	TIC	10.040	10.030	10.080	2.150	191577	89073	3.76106	Auto	37	10.030	Linear	0	0	0.718964	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.41	mg/L		0.00000	2.500						n-octane	7084771	4987749	3.298	215749.701	
+5	9-octadecen-1-ol	Target	1	TIC	10.275	10.265	10.340	1.100	4862	4422	0.37195	Auto	46	10.300	Linear	0	0	0.184505	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.37	mg/L		0.00000	1.498						n-octane	7084771	4987749	3.298	12049.938	
+6	oleic acid	Target	1	TIC	10.590	10.430	11.020	2.820	69512317	24679454	1530.20137	Auto	54	10.540	Linear	0	0	0.641191	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1042.62	mg/L		0.00000	1.010						n-octane	7084771	4987749	3.298	23670.667	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 29 - Biotrafo MG00-02 M9-C18 aDox-pMis_Car\02 pMis Car 1 - t8.qgd
+Output Date	21.08.2017
+Output Time	12:38:39
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold	Tailing	Ref.Ion1 S/N	Ref.Ion2 S/N	Ref.Ion3 S/N	Ref.Ion4 S/N	Ref.Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret.Time	Noise
+1	n-octane	ISTD	1	TIC	3.298	3.255	3.405	1.410	7073095	5017326	100.00000	Auto	6	3.295	Default	0	0	0	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		129.54	mg/L		0.00000	0.817						n-octane	7073095	5017326	3.298	38732.387	
+2	put. 8-heptadecenal	Target	1	TIC	9.461	9.385	9.520	2.270	541192	238243	257.61865	Auto	16	9.400	Linear	0	0	0.0297006	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1.57	mg/L		0.00000	0.927						n-octane	7073095	5017326	3.298	151447.715	
+3	put. 8-heptadecen1-ol	Target	1	TIC	9.767	9.740	9.805	1.770	59372	33599	112.04344	Auto	24	9.770	Linear	0	0	0.00749179	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.06	mg/L		0.00000	1.548						n-octane	7073095	5017326	3.298	597021.818	
+4	9-octadecenal	Target	1	TIC	10.027	10.005	10.075	2.000	384547	191841	7.56193	Auto	36	10.030	Linear	0	0	0.718964	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.92	mg/L		0.00000	1.579						n-octane	7073095	5017326	3.298	209452.105	
+5	9-octadecen-1-ol	Target	1	TIC	10.271	10.235	10.330	1.470	1090129	740713	83.53340	Auto	46	10.300	Linear	0	0	0.184505	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		76.06	mg/L		0.00000	1.525						n-octane	7073095	5017326	3.298	9739.000	
+6	oleic acid	Target	1	TIC	10.592	10.435	11.010	2.920	71856424	24642229	1584.41428	Auto	52	10.540	Linear	0	0	0.641191	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1240.84	mg/L		0.00000	1.021						n-octane	7073095	5017326	3.298	19859.375	
+
+[Header]
+Data File Name	C:\GCMSsolution\Data\sum\2017 KW 29 - Biotrafo MG00-02 M9-C18 aDox-pMis_Car\02 pMis Car 2 - t8.qgd
+Output Date	21.08.2017
+Output Time	12:38:39
+
+[MS Quantitative Results]
+# of IDs	6
+ID#	Name	Type	ISTD Group#	Mass	Ret.Time	Start Time	End Time	A/H	Area	Height	Conc.	Mode	Peak#	Std.Ret.Time	Calibration Curve	3rd	2nd	1st	Constant	Ref.Ion Area	Ref.Ion Height	Ref.Ion Set Ratio	Ref.Ion Ratio	Recovery	SI	Ref.Ion1 m/z	Ref.Ion1 Area	Ref.Ion1 Height	Ref.Ion1 Set Ratio	Ref.Ion1 Ratio	Ref.Ion2 m/z	Ref.Ion2 Area	Ref.Ion2 Height	Ref.Ion2 Set Ratio	Ref.Ion2 Ratio	Ref.Ion3 m/z	Ref.Ion3 Area	Ref.Ion3 Height	Ref.Ion3 Set Ratio	Ref.Ion3 Ratio	Ref.Ion4 m/z	Ref.Ion4 Area	Ref.Ion4 Height	Ref.Ion4 Set Ratio	Ref.Ion4 Ratio	Ref.Ion5 m/z	Ref.Ion5 Area	Ref.Ion5 Height	Ref.Ion5 Set Ratio	Ref.Ion5 Ratio	Ret. Index	S/N	Unit	Description	Threshold	Tailing	Ref.Ion1 S/N	Ref.Ion2 S/N	Ref.Ion3 S/N	Ref.Ion4 S/N	Ref.Ion5 S/N	ISTD Name	ISTD Area	ISTD Height	ISTD Ret.Time	Noise
+1	n-octane	ISTD	1	TIC	3.297	3.245	3.445	1.400	6963339	4966094	100.00000	Auto	5	3.295	Default	0	0	0	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		319.69	mg/L		0.00000	0.818						n-octane	6963339	4966094	3.297	15533.857	
+2	put. 8-heptadecenal	Target	1	TIC	9.360	9.350	9.385	1.780	14613	8226	7.06573	Auto	14	9.400	Linear	0	0	0.0297006	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.03	mg/L		0.00000	1.750						n-octane	6963339	4966094	3.297	245531.890	
+3	put. 8-heptadecen1-ol	Target	1	TIC	9.765	9.745	9.790	1.590	56131	35391	107.59683	Auto	24	9.770	Linear	0	0	0.00749179	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0.16	mg/L		0.00000	1.152						n-octane	6963339	4966094	3.297	224825.002	
+4	9-octadecenal	Target	1	TIC	10.025	10.010	10.075	1.670	344813	206401	6.88746	Auto	36	10.030	Linear	0	0	0.718964	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1.31	mg/L		0.00000	2.191						n-octane	6963339	4966094	3.297	157116.000	
+5	9-octadecen-1-ol	Target	1	TIC	10.270	10.245	10.330	1.490	1180713	792324	91.90064	Auto	46	10.300	Linear	0	0	0.184505	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		60.42	mg/L		0.00000	1.512						n-octane	6963339	4966094	3.297	13114.294	
+6	oleic acid	Target	1	TIC	10.500	10.425	10.515	2.500	291177	116248	6.52157	Auto	53	10.540	Linear	0	0	0.641191	0	0	0	0	0.00	0.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5.80	mg/L		0.00000	0.638						n-octane	6963339	4966094	3.297	20026.103	
+
