@@ -5,8 +5,8 @@ import pandas as pd
 columnsToSelect = ['Area', 'Conc.']
 
 # Decimal seperators
-inDecimalSep = ','
-outDecimalSep = ','
+inDecimalSep = '.'
+outDecimalSep = '.'
 
 # Replicate number seperator
 # e.g. triplicate measurement of sample1:
@@ -23,7 +23,7 @@ def getSampleName(singleRunData):
     return sampleName
 
 
-with open("abc2.txt") as file:
+with open("test.txt") as file:
     lines = file.readlines()
 
 data = []
@@ -63,6 +63,8 @@ for sel in selected:
     newTable.sort_index(inplace=True)
     transposed.append(newTable)
 
+    # TODO: change order of samples from alphabetic to GC data order
+
 for index, el in enumerate(transposed):
     filename = "test" + columnsToSelect[index] + ".txt"
     el.to_csv(filename, sep='\t', decimal=outDecimalSep)
@@ -77,13 +79,13 @@ def selectDuplicateSamples(df: pd.DataFrame, sampleName: str, duplicateSeperator
     return df.loc[query]
 
 
-concTransposed = transposed[0]
-uniqueSampleNames = set([getSampleNameForDuplicates(name, replSep) for name in [getSampleName(singleRunData) for singleRunData in data]])
-duplicates = []
-for sam in uniqueSampleNames:
-    #selection = concTransposed.index.isin([sam])
-    selection = [getSampleNameForDuplicates(index, replSep) == sam for index in concTransposed.index]
-    duplicates.append(concTransposed[selection])
+# concTransposed = transposed[0]
+# uniqueSampleNames = set([getSampleNameForDuplicates(name, replSep) for name in [getSampleName(singleRunData) for singleRunData in data]])
+# duplicates = []
+# for sam in uniqueSampleNames:
+#     #selection = concTransposed.index.isin([sam])
+#     selection = [getSampleNameForDuplicates(index, replSep) == sam for index in concTransposed.index]
+#     duplicates.append(concTransposed[selection])
 
 #duplSelected = selectDuplicateSamples(pd.concat(transposed), [getSampleName(singleRunData) for singleRunData in data][0], '_')
 
