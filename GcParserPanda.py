@@ -22,7 +22,7 @@ def getSampleName(singleRunData):
 
     return sampleName
 
-
+#TODO: for each text file in folder generate n out-files
 with open("test.txt") as file:
     lines = file.readlines()
 
