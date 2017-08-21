@@ -47,6 +47,12 @@ for line in data:
 results = pd.concat(pdData, keys=sampleNames)  # type: pd.DataFrame
 results.set_index(results.index.set_names(['sample', 'ID#']), inplace=True)
 
+#make a dictionarey of name, retention time pairs
+namesWithRetention = dict()
+namesWithRetention.update(results.set_index('Name')['Ret.Time'].to_dict())
+#sort by retention times and get values as list
+sortedNames = [key for (key, value) in sorted(namesWithRetention.items(), key= lambda x: x[1])]
+
 
 def transposeOnColumn(df, columnName):
     return df.pivot(columns='Name', values=columnName)
@@ -61,10 +67,11 @@ for sel in selected:
     newTable = pd.DataFrame.pivot_table(sel, index='sample', columns=['Name'])
     newTable.index = pd.Categorical(newTable.index, sampleNames)
     newTable.sort_index(inplace=True)
+    newTable.columns = newTable.columns.droplevel()
+    newTable = newTable[sortedNames]
     transposed.append(newTable)
 
     # TODO: change order of samples from alphabetic to GC data order
-
 for index, el in enumerate(transposed):
     filename = "test" + columnsToSelect[index] + ".txt"
     el.to_csv(filename, sep='\t', decimal=outDecimalSep)
