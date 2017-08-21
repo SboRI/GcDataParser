@@ -71,7 +71,6 @@ for sel in selected:
     newTable = newTable[sortedNames]
     transposed.append(newTable)
 
-    # TODO: change order of samples from alphabetic to GC data order
 for index, el in enumerate(transposed):
     filename = "test" + columnsToSelect[index] + ".txt"
     el.to_csv(filename, sep='\t', decimal=outDecimalSep)
